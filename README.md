@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://mdbootstrap.com/products/angular-ui-kit/">
-    <img src="https://mdbootstrap.com/img/Marketing/general/logo/medium/mdb-angular.png">
+    <img src="https://mdbootstrap.com/img/Marketing/general/logo/medium/mdb-angular-r.png">
   </a>
 </p>
 
-<h1 align="center">Angular Bootstrap with Material Design</h1>
+<h1 align="center">Angular Bootstrap with Material Design PRO</h1>
 
 
 <p align="center">
@@ -14,48 +14,46 @@
 </p>
 
 <p align="center">
-  ✔️<b>2000+</b> Premium Components - An impressive collection of ready to use, stunning Material Design components.
+  An impressive collection of ready to use, stunning Material Design components.
 </p>
 <p align="center">
-  ✔️<b>Premium sections, plugins & templates</b> - Save huge amounts of time on website/application creation using our predefined sections and templates.
+  Save huge amounts of time on website/application creation using our predefined sections and templates.
 </p>
 <p align="center">
-  ✔️<b>Premium support</b> - With the Premium Support all your issues will be treated as a priority and our team will make their fullest efforts to help you with any questions related to MDB.
+  With the Premium Support all your issues will be treated as a priority and our team will make their fullest efforts to help you with any questions related to MDB.
     </p>
 <p align="center">
-  ✔️<b>Access to MDB Pro repository</b> - An private GitLab account dedicated to MDB Pro users.
+  An private GitLab account dedicated to MDB Pro users.
 </p>
 
 
 
 |⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ Features⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|⠀ MDB Free⠀ |⠀ MDB PRO ⠀ | 
 |:--------------------:|:---------------------------:|:----------------------------:|
-|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 400+ Basic Components⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ✔️| ✔️ |
-|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 2000+ Premium Components⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ❌ | ✔️ | 
+|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 500+ Basic Components⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ✔️| ✔️ |
+|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 4,500+ Premium Components⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ❌ | ✔️ | 
 |⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ Detailed Documentation⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ✔️ | ✔️ | 
 |⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ SASS, CSS, JS, HTML files ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ✔️ | ✔️ | 
-|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀50+ Premium Sections⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ❌ | ✔️ | 
-|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ Basic Plugins⠀⠀⠀⠀⠀⠀⠀⠀⠀  ⠀⠀⠀⠀| ✔️ | ✔️ | 
-|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ Premium Plugins⠀⠀⠀⠀  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ❌ | ✔️ | 
+|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀50+ Pro sections⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ❌ | ✔️ | 
+|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 2 Basic Plugins⠀⠀⠀⠀⠀⠀⠀  ⠀⠀⠀⠀| ✔️ | ✔️ | 
+|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 6 Pro Plugins⠀⠀               | ❌ | ✔️ | 
+|                  8 Basic modules                   | ✔️ | ✔️ | 
+|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀22 Pro modules                   | ❌ | ✔️ | 
 |⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ Premium Support⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ❌ | ✔️ | 
 |⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ GitLab account and MDB Pro repository access⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| ❌ | ✔️ | 
 
 
-<h1>
-Details
-</h1>
+# Table of Content
 
-  - Bootstrap 4 
-  - Angular CLI
-  - no jQuery
-  - TypeScript
-  - Angular 7 
-  - Cross-browser compatibility
-  - Frequent updates
-  - <a href="https://mdbootstrap.com/support/">Active community</a>
-  - Fully responsive
-  - and even more...
-  
+* [Useful links](#useful-links)
+* [PRO Technologies](#pro-technologies)
+* [Quick Start](#quick-start)
+* [Tutorials](#tutorials)
+* [Documentation](#documentation)
+* [Supported Browsers](#supported-browsers)
+* [Social Media](#social-media)
+
+# Useful links
   
 * Preview - https://mdbootstrap.com/docs/angular/components/demo/
 * ChangeLog - https://mdbootstrap.com/docs/angular/changelog/
@@ -66,11 +64,14 @@ Details
 * Tutorial - https://mdbootstrap.com/education/angular/
 
 
+# PRO technologies
+
+[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/react.png"/>](https://mdbootstrap.com/products/react-ui-kit/)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/jquery.png"/>](https://mdbootstrap.com/products/jquery-ui-kit/)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[<img src="https://mdbootstrap.com/img/Marketing/general/logo/small/vue.png"/>](https://mdbootstrap.com/products/vue-ui-kit/)
 
 
-<h1>
-NPM installation
-</h1>
+
+# Quick start
+
 
 **Step 1**:  Create new angular project using Angular CLI command:
 
@@ -208,4 +209,68 @@ from
 
 to 
 
-`"node_modules/bootstrap/scss/bootstrap.scss.`    
+`"node_modules/bootstrap/scss/bootstrap.scss.`   
+
+
+# Tutorials
+
+ - [Written Tutorial](https://mdbootstrap.com/docs/angular/getting-started/quick-start/)
+
+ - [Video Tutorial](https://www.youtube.com/watch?v=J3M0QS6YB0w)
+ 
+# Documentation
+
+ - [Huge, detailed documentation available online](https://mdbootstrap.com/docs/angular/)
+
+# Supported browsers
+
+MDBootstrap supports the **latest, stable releases** of all major browsers and platforms.
+
+Alternative browsers which use the latest version of WebKit, Blink, or Gecko, whether directly or via the platform’s web view API, are not explicitly supported. However, MDBootstrap should (in most cases) display and function correctly in these browsers as well.
+
+### Mobile devices
+
+Generally speaking, MDBootstrap supports the latest versions of each major platform’s default browsers. Note that proxy browsers (such as Opera Mini, Opera Mobile’s Turbo mode, UC Browser Mini, Amazon Silk) are not supported.
+
+|  | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Chrome  | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Firefox  |  [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" alt="Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Safari   | Android Browser & WebView  |                  [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" alt="IE / Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br> Miscrosoft Edge                      |
+|:--------------------:|:---------------------------:|:----------------------------:|:----------------------------:|:----------------------------:|:-------------------------------------------------------------------------:|
+| Android | Supported | Supported | N/A | Android v5.0+ supported | Supported |
+| iOS | Supported | Supported | Supported | N/A | Supported |
+|⠀ Windows 10 Mobile⠀ | N/A | N/A | N/A | N/A | Supported |
+
+### Desktop browsers
+
+Similarly, the latest versions of most desktop browsers are supported.
+
+|  | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Chrome  |  [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Firefox  | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" alt="IE / Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br> Internet Explorer  |  [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" alt="Internet Explorer / Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br> Edge  | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" alt="Opera" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Opera                  |       [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" alt="Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Safari       |
+|:--------------------:|:-----------------------------:|:------------------------------:|:------------------------------:|:----------------------------:|:-------------------------------------------------------------------------:|:------------------------------:|
+|⠀Mac⠀|⠀Supported⠀|⠀Supported⠀|⠀N/A⠀|⠀N/⠀|⠀Supported⠀|⠀Supported⠀|
+|Windows|⠀Supported⠀|⠀Supported⠀|⠀N/A⠀|⠀Supported|⠀Supported⠀|⠀Not supported⠀|
+
+
+### Support MDB developers
+- Star our GitHub repo
+- Create pull requests, submit bugs, suggest new features or documentation updates
+- Follow us on [Twitter](https://twitter.com/mdbootstrap)
+- Like our page on [Facebook](https://www.facebook.com/mdbootstrap)
+
+A big ❤️ **thank you to all our users** ❤️ who are working with us to improve the software. We wouldn't be where we are without you. 
+
+________
+
+
+# Social Media
+
+ - [YouTube](https://www.youtube.com/channel/UC5CF7mLQZhvx8O5GODZAhdA)
+
+ - [Twitter](https://twitter.com/MDBootstrap)
+
+ - [Facebook](https://www.facebook.com/mdbootstrap) 
+
+ - [Pinterest](https://pl.pinterest.com/mdbootstrap)
+
+ - [Dribbble](https://dribbble.com/mdbootstrap)
+
+ - [LinkedIn](https://www.linkedin.com/company/material-design-for-bootstrap)
+
+
